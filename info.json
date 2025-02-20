@@ -1,0 +1,12 @@
+{
+    "name": "SpaghetorioGraphics1",
+    "version": "0.0.1",
+    "title": "Spaghetti Cheats",
+    "description": "Contains graphics for spaghetorio",
+    "author": "Spaghetti",
+    "contact": "https://github.com/Spaghenutti/Spaghetorio/issues",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0.28"
+    ]
+}
